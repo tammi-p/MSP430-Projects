@@ -170,7 +170,7 @@ int main(void)
 
         else if(state == 2){
             if(first_time){
-                random_sequence();                          // not sure where to put this
+                random_sequence();                          
                 direction = 1;
                 first_time = 0;
             }
